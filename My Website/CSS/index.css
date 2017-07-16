@@ -1,5 +1,5 @@
 html {
-    color: turquoise;
+ 
 }
 
 body {
@@ -7,5 +7,7 @@ body {
 }
 
 p {
+    font-size: 30;
     text-align: center;
+    color: lime;
 }
