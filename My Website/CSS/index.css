@@ -9,8 +9,6 @@ body {
 p {
     font-size: 160%;
     text-align: center;
-    color: lime;
-    font-family: calibri;
-    
-
+    color:  #00ff99;
+    font-family: 'Calibri Light';
 }
