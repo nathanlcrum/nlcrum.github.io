@@ -4,10 +4,11 @@ html {
 
 body {
     background-color: black;
+    font-color: #00ff99;
 }
 
 p {
-    font-size: 160%;
+    font-size: 18px;
     text-align: center;
     color:  #00ff99;
     font-family: 'Calibri Light';
