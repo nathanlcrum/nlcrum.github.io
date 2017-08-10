@@ -4,12 +4,19 @@ html {
 
 body {
     background-color: black;
-    font-color: #00ff99;
+    
 }
 
-p {
-    font-size: 18px;
+h1 {
+    font-size: 160%;
     text-align: center;
     color:  #00ff99;
+    font-family: 'Calibri Light';
+}
+
+p, ul, h2 {
+    font-size: 100%;
+    text-align: left;
+    color: #00ff99;
     font-family: 'Calibri Light';
 }
