@@ -1,7 +1,4 @@
-html {
- 
-}
-
+/* Selectors */
 body {
     background-color: black;
     
@@ -19,4 +16,11 @@ p, ul, h2 {
     text-align: left;
     color: #00ff99;
     font-family: 'Calibri Light';
+}
+
+/* Classes */
+
+.landing {
+    background-image: url("http://img04.deviantart.net/e9ce/i/2014/013/4/2/digital_background___plexus_by_gentaro_de_averial-d721rui.png");
+    text-align: center;
 }
