@@ -23,6 +23,7 @@ p, ul, h2 {
 .landing {
     background-image: url("https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bitcoin.co.id%2Fhomev2-assets%2Fimg%2Fp2pbg.jpg&f=1");
     background-position: center top;
+    position: absolute;
     text-align: center;
     width: 100%;
 }
