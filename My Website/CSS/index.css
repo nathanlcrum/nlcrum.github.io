@@ -8,19 +8,21 @@ h1 {
     font-size: 160%;
     text-align: center;
     color:  #00ff99;
-    font-family: 'Calibri Light';
+    font-family: 'Raleway', 'Calibri Light';
 }
 
 p, ul, h2 {
     font-size: 100%;
     text-align: left;
     color: #00ff99;
-    font-family: 'Calibri Light';
+    font-family: 'Raleway', 'Calibri Light';
 }
 
 /* Classes */
 
 .landing {
     background-image: url("http://img04.deviantart.net/e9ce/i/2014/013/4/2/digital_background___plexus_by_gentaro_de_averial-d721rui.png");
+    background-position: center top;
     text-align: center;
+    width: 100%;
 }
