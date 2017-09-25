@@ -1,0 +1,194 @@
+* {
+  margin: 0;
+  padding: 0;
+border: 0;
+outline: 0;
+}
+
+h1 {
+    font-size: 500%;
+    text-align: center;
+    color:  white;
+    font-family: 'Raleway', 'Calibri Light';
+    padding-top: 250px;
+}
+
+ul {
+    padding-top: 10px;
+    font-size: 105%;
+    text-align: center;
+    color: #00ff99;
+    font-family: 'Raleway', 'Calibri Light';
+    list-style-type: none;
+   
+}
+
+iframe{
+	padding-top:3%;
+	width:60%;
+	display:block;
+	margin:auto;
+	
+	height:89%;
+	
+}
+
+
+.download p{
+	text-align:right;
+	padding-right:20%;
+	padding-top: 8px;
+	color: #00ff99;
+	font-family: 'Raleway', 'Calibri Light';
+	font-size:14px;
+	
+}
+.landing {
+    background-image: url('../img/tanglebackground.jpg');
+    background-size: cover;
+    height: 725px;
+    z-index:-1;
+}
+.crypto {
+	background-color:#344058;
+}
+.projects p{
+	font-family: 'Raleway', 'Calibri Light';
+color: white;
+text-align: left;
+padding: 5px;
+padding-left: 15%;
+padding-right: 15%;
+font-size: 16px;
+}
+
+.introtext {
+font-family: 'Raleway', 'Calibri Light';
+color: #00ff99;
+text-align: center;
+padding: 10px;
+
+}
+
+p{
+font-size: 150%;
+}
+.outlineblack
+{
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+
+.navbar li{
+padding-top: 20px;
+ display: inline;
+padding-left: 120px;
+padding-right: 120px;
+}
+
+.navbar ul{
+background-color: rgba(0,0,0,0.2);
+position: fixed;
+width: 100%;
+padding-bottom: 10px;
+
+}
+
+.contact {
+	
+	text-align: center;
+	vertical-align: center;
+	color: white;
+	font-family: 'Raleway', 'Calibri Light';
+	font-size: 14px;
+	padding-top: 10%;
+}
+
+h2{
+	
+	font-size: 25px;
+	padding-bottom:10px;
+	text-align:center;
+	color: white;
+    font-family: 'Raleway', 'Calibri Light';
+}
+
+.crypto {
+	padding-top: 5%;
+}
+
+.crypto h3{
+	
+	padding-left: 15%;
+	color: #00ff99;
+    font-family: 'Raleway', 'Calibri Light';
+    padding-top: 10px;
+	
+}
+
+
+
+.crypto ul{
+	text-align: left;
+	padding-left: 18%;
+	
+}
+
+.project1 {
+	height:500px;
+	overflow:scroll;
+	z-index: 3;
+    
+    width: 965px;
+    display:block;
+    margin:auto;
+    overflow-x:hidden;
+    
+   
+}
+.projects img{
+	display:block;
+    margin:auto;
+	
+}
+.padding{
+	padding-top:5%;
+}
+.resume {
+
+    height:600px;
+    overflow:scroll;
+    z-index: 3;
+    
+    width: 965px;
+    display:block;
+    margin:auto;
+    overflow-x:hidden;
+    
+   
+}
+.resume img{
+    display:block;
+    margin:auto;
+    
+}
+
+.tutorials {
+	padding-bottom: 10px;
+}
+
+
+a:link {
+	color: #00ff99;
+}
+
+
+a:visited {
+	color: #00ff99;
+}
+a:hover{
+    color: white;
+}
